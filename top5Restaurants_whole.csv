@@ -1,0 +1,61 @@
+id,name,categories,location.address,location.lat,location.lng,Rating
+4b058888f964a520f8cb22e3,Restaurant JOSEF,Swiss Restaurant,Gasometerstr. 24,47.38400582466896,8.52902029772919,9.0
+4b0f01b0f964a520095e23e3,Panama Bar & Restaurant,Bar,Lettensteg 10,47.38516656631587,8.535383168210096,8.4
+52dd552411d2bf369d4686a0,Restaurant & Bar  Valentin's  Zürich,Meyhane,Gasometerstrasse 36,47.38477030956631,8.529927630530764,8.4
+4e41164662e17b948c233c11,Phuket Asia Center,Asian Restaurant,Schöneggstr. 21,47.38021017249064,8.526541652315395,8.0
+4eb2f06130f85a3c6d89de74,Restaurant Valentin's,Turkish Restaurant,Gasometerstrasse  36,47.384740237094,8.529903632520893,7.8
+4b556dbaf964a5200fe427e3,Restaurant Widder,Gastropub,Metzggasse 9,47.498649107863045,8.727838749917638,8.1
+4cadc4bf2303a14348e1e8f0,Restaurant Al Giardino,Italian Restaurant,Tösstalstrasse 70,47.49434,8.73981,7.8
+4b5f2bcaf964a520c3aa29e3,bloom,Hotel Bar,Stadthausstrasse 4,47.50097623097364,8.732609744752372,7.3
+4bf269ba55c7c9b6620e6204,Restaurant Schäfli,Restaurant,,47.498908963354616,8.731258089834894,7.1
+4e7f69b777c8c6603259bab5,Restaurant zur Sonne,Swiss Restaurant,Marktgasse 13-15,47.499683399999995,8.729813499999999,6.9
+4c28d2183492a59369f0b728,Tomate,Italian Restaurant,Kirchstr. 16,47.40536394411738,8.4033644761404,7.3
+4fe4eb22e4b0d55efea120fa,Heimat,Swiss Restaurant,Steinmürlistr. 66,47.40225093668161,8.39577788414136,6.5
+4fefc013e4b0c8e6f59365f3,King Fast-Food Restaurant,Turkish Restaurant,Bremgartnerstr.10,47.40419769572668,8.402654377543099,
+4e9f31297beb6623c124f603,Migros Restaurant,Restaurant,Zentralstr. 17,47.40508820123677,8.401644229888916,
+53bd3020498ebfa47ad3f558,Restaurant Luo,Chinese Restaurant,Oberdorfstrasse 36,47.401511499445455,8.400935377698643,
+4cadaf85d1f8b60cd48c70c6,Migros,Supermarket,Schaffhauserstr.122,47.45096344851223,8.581541716189975,7.9
+5bbde1cdc0af57002cae3806,Eisdiele im Restaurant Ripasso,Ice Cream Shop,Square/Stadtplatz,47.450435999999996,8.582993,
+5b9793281ffe97002c910575,Restaurant Zur Alten Taverne,Restaurant,ItSchaffhausersrrasse 161,47.454240000000006,8.579857,
+4e53faf6d4c05e0079f96e7e,Restaurant Sonne,Swiss Restaurant,,47.449273,8.583862,
+4caca1bff47ea14330039321,China Restaurant (Red Lion),Chinese Restaurant,Schaffhauserstrasse 138,47.45298295507902,8.580236831344491,
+4b9b85b0f964a520c30c36e3,Restaurant zur Kastanie,Italian Restaurant,,47.346644,8.715674,
+4d984b10647d8cfa1572eb3d,Boulevard Restaurant Uster,Fast Food Restaurant,Zürichstrasse 7,47.349439000000004,8.715889,
+4caf182cc5e6a1cd69c7c9f6,Migros Restaurant,Restaurant,Zürichstr. 18,47.34959650552129,8.715462684631348,
+532ae5ee498e47607f1364c6,Restaurant Sonnenhof,Gastropub,,47.34899887387045,8.720544214348525,
+51b47c40498e15fc00d6d2ea,Restaurant Burg Uster,Restaurant,,47.344825747249004,8.718145989884366,
+4d20c97cd7b0b1f7c2b2179f,Restaurant Etzliberg,Restaurant,Etzlibergstrasse 14,47.293709,8.555386,7.8
+4b6f1cf0f964a520d5dd2ce3,Restaurant Grundstein,Restaurant,Dorfstrasse 38,47.28869363047173,8.565065035641712,7.7
+504f47def1ba6afe50c964d8,Coop Restaurant Thalwil,,Florastrasse 1,47.29666764,8.56211933,
+5022e1d2e4b07c69f5164a2d,Restaurant Trattoria Gallo Nero,,,47.293038,8.56593,
+582f4be0d0bb3e21438ca72a,Restaurant ComViet,Vietnamese Restaurant,Gotthardstrasse 11,47.29424,8.56477,
+521252cb11d24231aa65972d,Villa Barone,Italian Restaurant,Bahnhofstrasse 131,47.32585483765814,8.798235470833795,7.4
+4c88d339105237044056c3f1,Migros,Grocery Store,Bahnhofstr. 151,47.32740674507482,8.79979133605957,6.9
+5037f9a7e4b027db4f613b52,Restaurant Badi Egelsee,,,47.327219,8.7973737,
+4e1f184262e19e27e250298e,Restaurant West,Food,,47.326458414710636,8.793657867086184,
+4fdbb0c6e4b0619721a75f6c,Restaurant Konter,,,47.3274766,8.8024185,
+4df3499dc65bf55ee52b28a5,Restaurant Hot Wok,Asian Restaurant,Roosstrasse 40,47.43118687041175,8.471324912021794,5.9
+501d9ba8e4b0f873f83600c9,Restaurant Ciao,,,47.436741999999995,8.468314999999999,
+4f99c59ee4b00694c47597a7,Restaurant zum ewigä Liechtli,,,47.436741999999995,8.468314999999999,
+50df30abe4b0a78bf519babb,Restaurant Hardegg,Restaurant,Watterstr. 185,47.43586,8.47289,
+4f8be8afe4b0bae899423ed8,Migros Restaurant,Restaurant,,47.43138837010104,8.468548028150867,
+4dd7f5dee4cd37c893b8cb5a,Restaurant Rosengarten,Swiss Restaurant,Untere Bahnhofstrassse 33,47.27942451304674,8.449746419251277,
+4b6c78e9f964a520ea3c2ce3,Central Restaurant,Eastern European Restaurant,Zürichstrasse 100,47.27881,8.454538000000001,
+53c6577d498e4e6bafd1ac85,Restaurant Löwen,Swiss Restaurant,,47.276272,8.447192,
+58b7fb9803cf257b09d5c3cf,Stella Restaurant & Take Away,Kebab Restaurant,Zürichstrasse 81,47.277365,8.454025,
+58075f13d67c942a1bdb4394,China Restaurant Papaya,Cantonese Restaurant,Zürichstrasse 90,47.277657,8.454373,
+501855f6e4b06ec2737da3f0,Restaurant Alte Krone,,,47.241601,8.723448,
+4d4062e246775481fa6957f4,Restaurant Brückenwaage,Swiss Restaurant,Seestrasse 71,47.239377362076226,8.720340178413867,
+4d767ccb18cc594110a1f13f,Restaurant Hang Zhou,Chinese Restaurant,Seestr. 43,47.239319268654356,8.718448973235432,
+5050ae39e4b00991db9a2ef8,Restaurant Rössli,Restaurant,,47.239492331436146,8.718947553729066,
+4cd5142867c7236a9cea1077,Restaurant Schützenhaus,Restaurant,Seestrasse 48,47.238991,8.718728,
+4fb38001e4b0271a4c344a04,Restaurant Oase,Falafel Restaurant,,47.38790512084961,8.752344131469728,
+4f6b7a80e4b00b8301be1964,Restaurant Schützengasse,Swiss Restaurant,Hintergasse 15,47.386516219096926,8.751646209994522,
+5005e0b3e4b0229e8a19b0c0,17 - Restaurant zum Scharfeck,,,47.3881685,8.751996,
+50abc453e4b0ddb08e6bd3a1,Restaurant&Lounge Pumpkin,Restaurant,,47.388284000000006,8.745215,
+50243330e4b0783685bdbe4e,Stiftung zur Palme,Laundry Service,Hochstrasse 31-33,47.3867203,8.7529,
+5183997b498e5e7bc8cdc543,Restaurant Schwarzbrünneli,,Stadtweg 2,47.68988844162267,8.643314005336997,
+4f35172de4b01f8cbc84a5bd,Restaurant Mühlental,Indian Restaurant,"Durachweg 24, 8200 Schaffhausen",47.691849752932384,8.643056571839171,
+5c94b65281635b002ced3fce,Coop Restaurant Feuerthalen Rhymarkt,,Schützenstrasse 30,47.69058334,8.64691053,
+5005b7c7e4b004dc66d91687,SOI 1 Bar . Restaurant . Thai Take Out,Asian Restaurant,Bahnhofstrasse 50,47.68946105351014,8.638319419856131,
+4d94c7cc078ef04dcade3278,Coop,,Schützenstrasse 30,47.69072056,8.64677641,
